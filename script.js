@@ -20,5 +20,5 @@ document.getElementById("menu-btn").addEventListener("click", function () {
 });
 
 document.getElementById("close-btn").addEventListener("click", function () {
-    document.getElementById("sidebar").style.left = "-250px";
+    document.getElementById("sidebar").style.left = "-285px";
 });
